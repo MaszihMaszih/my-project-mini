@@ -28,14 +28,14 @@ h1 span {
 }
 
 .message {
-  background-color: yellow;
-  color: #333;
+   background-color: lightGrey;
+  color: #434e71;
   display: block;
   font-weight: 900;
   overflow: hidden;
   position: absolute;
   padding-left: 0.5rem;
-  top: 0.2rem;
+  top: 0rem;
   left: 150px;
   animation: openclose 5s ease-in-out infinite;
 }
