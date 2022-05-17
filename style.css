@@ -35,7 +35,7 @@ h1 span {
   overflow: hidden;
   position: absolute;
   padding-left: 0.5rem;
-  top: -0.2rem;
+  top: 0.2rem;
   left: 150px;
   animation: openclose 5s ease-in-out infinite;
 }
@@ -73,11 +73,11 @@ h1 span {
   }
   48% {
     top: -3rem;
-    width: 215px;
+    width: 280px;
   }
   62% {
     top: -3rem;
-    width: 215px;
+    width: 280px;
   }
   66% {
     top: -3rem;
@@ -90,15 +90,15 @@ h1 span {
     text-indent: 5px;
   }
   86% {
-    top: -6rem;
+    top: -7rem;
     width: 215px;
   }
   95% {
-    top: -6rem;
+    top: -7rem;
     width: 215px;
   }
   98% {
-    top: -6rem;
+    top: -7rem;
     width: 0;
     text-indent: 5px;
   }
